@@ -10,7 +10,7 @@
                                                            and ending with detailed, filterable loan-level data. </p>                                                              
                                                                           
 <p align="center"> Here’s a live demo of my Tableau visualization:</p>
-    <p align="center"><a href=https://public.tableau.com/app/profile/palak.kakkar3333/viz/Bank_loan_project_dashboard>Live Demo </a> </p> 
+    <p align="center"><a href=https://public.tableau.com/app/profile/palak.kakkar3333/viz/Bank_loan_project_dashboard/Overview>Live Demo </a> </p> 
                               
 
 

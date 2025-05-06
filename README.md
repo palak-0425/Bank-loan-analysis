@@ -1,4 +1,4 @@
-<p align="center"> **Bank Loan Data Analysis (SQL + Tableau)**</p>
+<p align="center"><b> Bank Loan Data Analysis (SQL + Tableau)</b></p>
 
 <p align="center">  This project explores U.S. bank loan data from 2021 using SQL for data transformation and Tableau for visualization. 
                   The goal is to uncover trends in loan applications, borrower behaviour and risk profiles to support data-driven lending decisions.</p>
@@ -10,7 +10,7 @@
                                                            and ending with detailed, filterable loan-level data. </p>                                                              
                                                                           
 <p align="center"> Here’s a live demo of my Tableau visualization:</p>
-    <p align="center"><a href=https://public.tableau.com/app/profile/palak.kakkar3333/viz/Bank_loan_project_dashboard/Overview>Live Demo </a> </p> 
+    <b><p align="center"><a href=https://public.tableau.com/app/profile/palak.kakkar3333/viz/Bank_loan_project_dashboard/Overview>Live Demo </a> </p> </b>
                               
 
 
